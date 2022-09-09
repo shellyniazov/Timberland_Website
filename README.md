@@ -1,2 +1,2 @@
 # Timberland_Website
-Link to the website - timberland-site.netlify.app
+Link to the website - https://timberland-site.netlify.app
